@@ -8,7 +8,7 @@
 ### 📝 Check the notes
 
 👉 [**Nmap_Security_Scanning_Notes.docx**](./Security-Testing-Nmap-Security-Scanning/Nmap_Security_Scanning_Notes.docx)
-A 23-page study guide that follows the course in order.
+A 24-page study guide that follows the course in order.
 
 ### 🗂️ Folder structure
 
